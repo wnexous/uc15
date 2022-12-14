@@ -1,0 +1,15 @@
+C:\Users\witho\Documents\senai\nexus\pfpj\bin\Debug\net7.0\pfpj.exe
+C:\Users\witho\Documents\senai\nexus\pfpj\bin\Debug\net7.0\pfpj.deps.json
+C:\Users\witho\Documents\senai\nexus\pfpj\bin\Debug\net7.0\pfpj.runtimeconfig.json
+C:\Users\witho\Documents\senai\nexus\pfpj\bin\Debug\net7.0\pfpj.dll
+C:\Users\witho\Documents\senai\nexus\pfpj\bin\Debug\net7.0\pfpj.pdb
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.csproj.AssemblyReference.cache
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.AssemblyInfoInputs.cache
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.AssemblyInfo.cs
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.csproj.CoreCompileInputs.cache
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.dll
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\refint\pfpj.dll
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.pdb
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\pfpj.genruntimeconfig.cache
+C:\Users\witho\Documents\senai\nexus\pfpj\obj\Debug\net7.0\ref\pfpj.dll
